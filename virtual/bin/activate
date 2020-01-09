@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/home/trevor/Documents/moringa-projects/core/flask/watchlist/virtual"
+VIRTUAL_ENV="/home/peter/Desktop/watchlist1/virtual"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
